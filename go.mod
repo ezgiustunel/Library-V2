@@ -1,0 +1,3 @@
+module HOMEWORK-2-EZGIUSTUNEL
+
+go 1.17
